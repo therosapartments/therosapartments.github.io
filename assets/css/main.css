@@ -199,6 +199,10 @@ input, select, textarea {
 			font-size: 1.5rem;
 		}
 
+	h2.myh2 {
+	overflow-wrap: break-word;
+	}
+
 	h1 {
 		font-size: 2.25rem;
 		line-height: 1.3;
